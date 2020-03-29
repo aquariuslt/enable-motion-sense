@@ -1,0 +1,6 @@
+id=enable-motion-sense
+name=EnableMotionSense
+version=v0.1
+versionCode=1
+author=aquariuslt
+description=Enabling Motion Sense (override pixel.oslo) Magisk Module
