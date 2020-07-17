@@ -1,7 +1,7 @@
 id=enable-motion-sense
 name=EnableMotionSense
-version=v1.0.0
-versionCode=1
+version=v0.1.0
+versionCode=10
 author=aquariuslt
 description=Enabling Motion Sense (override pixel.oslo) Module.
 minMagisk=20000

@@ -106,7 +106,6 @@ MODPATH=$MODULEROOT/$MODID
 rm -rf $MODPATH 2>/dev/null
 mkdir -p $MODPATH
 
-
 ##########
 # Install
 ##########

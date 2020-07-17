@@ -3,7 +3,8 @@
 # This will make your scripts compatible even if Magisk change its mount point in the future
 MODDIR=${0%/*}
 
-# This script will be executed in post-fs-data mode
-# More info in the main Magisk thread
+
 setprop pixel.oslo.allowed_override 1
 setprop persist.pixel.oslo.allowed_override 1
+# This script will be executed in post-fs-data mode
+# More info in the main Magisk thread
